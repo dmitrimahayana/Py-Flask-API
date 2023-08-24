@@ -5,7 +5,8 @@ app = Flask(__name__)
 # Sample initial data
 people = [
     {"id": 1, "name": "Dmitri"},
-    {"id": 2, "name": "Mahayana"},
+    {"id": 2, "name": "Yanno"},
+    {"id": 3, "name": "Mahayana"},
 ]
 
 
